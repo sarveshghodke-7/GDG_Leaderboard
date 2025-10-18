@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Node.js / Frontend
+node_modules/
+.next/     # For Next.js build output
+out/       # Another common Next.js/build output
+build/     # Generic build output
+dist/      # Generic distribution output
+.env.local
+.env.development.local
+.env.production.local
+
+# IDE / OS specific
+.DS_Store
+.vscode/
+Thumbs.db
